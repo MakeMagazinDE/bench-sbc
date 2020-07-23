@@ -1,4 +1,7 @@
 # bench-sbc
 ## Zusätzliche Benchmarks für Single Board Computer (und andere)
 
-Artikel dazu 
+Der Online-Artikel "[Benchmarks für Single Board Computer]"(https://heise.de/-4850569) beschreibt die Installation und Bedienung
+
+
+  
